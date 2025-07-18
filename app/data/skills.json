@@ -1,0 +1,61 @@
+[
+  {
+    "label": "Languages",
+    "items": [
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "Python",
+      "C",
+      "ASP.NET"
+    ]
+  },
+  {
+    "label": "Frontend",
+    "items": [
+      "React.js",
+      "Next.js",
+      "Angular 6+",
+      "jQuery",
+      "Tailwind CSS",
+      "Bootstrap",
+      "AG-Grid"
+    ]
+  },
+  {
+    "label": "Backend",
+    "items": ["Node.js", "Express.js", "GraphQL", "REST"]
+  },
+  {
+    "label": "Databases",
+    "items": ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"]
+  },
+  {
+    "label": "Testing",
+    "items": ["Jest", "Mocha", "Selenium", "Behave"]
+  },
+  {
+    "label": "DevOps",
+    "items": ["Docker", "GitHub", "GitLab", "CI/CD"]
+  },
+  {
+    "label": "Tools",
+    "items": [
+      "Visual Studio Code",
+      "Terminal",
+      "Homebrew",
+      "ESLint",
+      "Tableau",
+      "Postman"
+    ]
+  },
+  {
+    "label": "Monitoring",
+    "items": ["Prometheus", "Datadog"]
+  },
+  {
+    "label": "Methodologies",
+    "items": ["Agile", "Scrum", "XP", "Pair Programming", "Waterfall"]
+  }
+]

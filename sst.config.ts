@@ -6,10 +6,10 @@ export default {
   config(_input) {
     return {
       name: "jobboard-ssr",
-      region: "us-east-1",
+      region: "us-east-1"
     };
   },
   stacks(app) {
     app.stack(WebStack);
-  },
+  }
 } satisfies SSTConfig;

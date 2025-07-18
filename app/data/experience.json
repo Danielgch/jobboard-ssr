@@ -1,0 +1,65 @@
+[
+  {
+    "company": "SoftServe",
+    "title": "Software Engineer",
+    "location": "Medellín, Colombia",
+    "dates": "Oct 2022 – Jun 2025",
+    "responsibilities": [
+      "Designed and developed backend services for loyalty features used by millions of users weekly.",
+      "Built and maintained GraphQL APIs with mock data and flow analysis.",
+      "Automated builds and deployments using CI/CD scripts.",
+      "Actively participated in Scrum ceremonies and cross-team collaboration."
+    ],
+    "defaultOpen": true
+  },
+  {
+    "company": "Globant S.A.S",
+    "title": "Jr Advanced Web UI Engineer",
+    "location": "Medellín, Colombia",
+    "dates": "Jul 2021 – Jan 2022",
+    "responsibilities": [
+      "Built Node.js/Express projects to deepen backend knowledge.",
+      "Applied best practices using MongoDB and GraphQL integrations."
+    ]
+  },
+  {
+    "company": "Purplelap / Source Meridian",
+    "title": "Software Developer",
+    "location": "Medellín, Colombia",
+    "dates": "May 2019 – Jul 2021",
+    "responsibilities": [
+      "Built frontend features and reusable UI components.",
+      "Delivered UI/UX improvements in agile delivery cycles."
+    ]
+  },
+  {
+    "company": "Solpes Project ISA / Enovel",
+    "title": "Frontend Engineer",
+    "location": "Medellín, Colombia",
+    "dates": "Oct 2018 – May 2019",
+    "responsibilities": [
+      "Built responsive UIs and animations from design specs.",
+      "Created mockups and resolved bugs."
+    ]
+  },
+  {
+    "company": "Smart Data / Mercadeo Relacional S.A.S",
+    "title": "Data Analyst",
+    "location": "Medellín, Colombia",
+    "dates": "Sep 2016 – Sep 2017",
+    "responsibilities": [
+      "Built optimized Tableau dashboards and SQL queries.",
+      "Integrated data from Google Analytics and third-party tools."
+    ]
+  },
+  {
+    "company": "Center of Master Data / Servicios Nutresa",
+    "title": "Data Analyst",
+    "location": "Medellín, Colombia",
+    "dates": "Jul 2015 – Jan 2016",
+    "responsibilities": [
+      "Handled SAP support tickets and USA billing issues.",
+      "Provided operational support for internal platforms."
+    ]
+  }
+]
