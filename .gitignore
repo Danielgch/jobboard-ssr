@@ -1,5 +1,29 @@
-node_modules
+# Node
+node_modules/
 
-/.cache
-/build
+# Build output
+/build/
+/.sst/
+/dist/
+/cdk.out/
+
+# Vite/Remix
+/.cache/
+*.log
+
+# Env files
 .env
+.env.local
+.env.*.local
+
+# SST outputs
+outputs.json
+stage
+
+# Test results
+/test-results/
+/coverage/
+
+# OS generated
+.DS_Store
+Thumbs.db

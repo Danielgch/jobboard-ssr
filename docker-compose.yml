@@ -1,0 +1,19 @@
+version: '3.9'
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: jobboard-postgres
+    restart: always
+    environment:
+      POSTGRES_USER: daniel
+      POSTGRES_PASSWORD: secret
+      POSTGRES_DB: jobboard
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+
+volumes:
+  pgdata:
